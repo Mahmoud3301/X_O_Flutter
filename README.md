@@ -1,16 +1,22 @@
 # ❌⭕ X_O_Flutter — Cross-Platform Tic-Tac-Toe Game
 
-![X_O_Flutter]([assets/screenshot1.png](https://github.com/Mahmoud3301/X_O_Flutter/blob/main/x_o.png))
+![X_O_Flutter](https://github.com/Mahmoud3301/X_O_Flutter/blob/main/x_o.png?raw=true)
 
 [![Flutter](https://img.shields.io/badge/Framework-Flutter-blue?logo=flutter)]()
 [![Dart](https://img.shields.io/badge/Language-Dart-lightblue?logo=dart)]()
+[![Game](https://img.shields.io/badge/Game-TicTacToe-green)]()
 
 **X_O_Flutter** is a clean, interactive, and cross-platform implementation of the classic **Tic-Tac-Toe (X and O)** game built with **Flutter**.  
 It’s designed for fun, learning Flutter basics, and demonstrating responsive UI with smooth state management.
 
 💡 Play with a friend, track winners, and reset the game in one tap — all inside a beautiful mobile-friendly interface.
 
+---
 
+## 🎬 Demo
+👉 [Watch the demo on Google Drive](https://drive.google.com/) *(Add your demo link here)*
+
+---
 
 ## ✨ Features
 
@@ -51,3 +57,14 @@ flutter pub get
 
 # Run the app
 flutter run
+
+📂 Project Structure
+X_O_Flutter/
+├── lib/
+│   ├── main.dart          # App entry point
+│   ├── game_logic.dart    # Core game state & winner detection
+│   └── widgets/           # UI components
+├── assets/                # Game images/screenshots
+├── test/                  # Unit tests (if added)
+├── pubspec.yaml
+└── README.md
