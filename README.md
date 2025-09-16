@@ -1,6 +1,6 @@
 # ❌⭕ X_O_Flutter — Cross-Platform Tic-Tac-Toe Game
 
-![X_O_Flutter](assets/screenshot1.png)
+![X_O_Flutter]([assets/screenshot1.png](https://github.com/Mahmoud3301/X_O_Flutter/blob/main/x_o.png))
 
 [![Flutter](https://img.shields.io/badge/Framework-Flutter-blue?logo=flutter)]()
 [![Dart](https://img.shields.io/badge/Language-Dart-lightblue?logo=dart)]()
