@@ -44,16 +44,44 @@ It’s designed for fun, learning Flutter basics, and demonstrating responsive U
 🔁 Restart button to reset  
 
 ---
-📂 Project Structure
+
+## 📂 Project Structure
+
 X_O_Flutter/
 ├── lib/
-│   ├── main.dart          # App entry point
-│   ├── game_logic.dart    # Core game state & winner detection
-│   └── widgets/           # UI components
-├── assets/                # Game images/screenshots
-├── test/                  # Unit tests (if added)
+│ ├── main.dart # App entry point
+│ ├── game_logic.dart # Core game state & winner detection
+│ └── widgets/ # UI components
+├── assets/ # Game images/screenshots
+├── test/ # Unit tests (if added)
 ├── pubspec.yaml
 └── README.md
+
+
+---
+🛠️ Technologies Used
+
+Flutter
+
+Dart
+
+Material Design Widgets
+
+🚀 Future Improvements
+
+🤖 Single-player mode with AI opponent
+
+🌐 Online multiplayer mode
+
+🎨 Themes (Dark/Light modes)
+
+🏆 Scoreboard & win history tracking
+
+🎵 Sound effects & animations
+
+👨‍💻 Developed By
+
+Mahmoud Mansour (replace with actual team names if multiple developers)
 
 ## 📦 Installation
 
@@ -67,4 +95,5 @@ flutter pub get
 
 # Run the app
 flutter run
+
 
