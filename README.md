@@ -1,63 +1,53 @@
-# X_O_Flutter 🕹️
+# ❌⭕ X_O_Flutter — Cross-Platform Tic-Tac-Toe Game
 
-A Flutter implementation of the classic **X and O** (Tic-Tac-Toe) game.
+![X_O_Flutter](assets/screenshot1.png)
 
----
+[![Flutter](https://img.shields.io/badge/Framework-Flutter-blue?logo=flutter)]()
+[![Dart](https://img.shields.io/badge/Language-Dart-lightblue?logo=dart)]()
 
-## Table of Contents
+**X_O_Flutter** is a clean, interactive, and cross-platform implementation of the classic **Tic-Tac-Toe (X and O)** game built with **Flutter**.  
+It’s designed for fun, learning Flutter basics, and demonstrating responsive UI with smooth state management.
 
-- [Overview](#overview)  
-- [Features](#features)  
-- [Screenshots](#screenshots)  
-- [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
-- [How to Play](#how-to-play)  
-- [Project Structure](#project-structure)  
-- [Technologies Used](#technologies-used)  
-- [Future Improvements](#future-improvements)  
-- [Contributing](#contributing)  
-- [License](#license)  
+💡 Play with a friend, track winners, and reset the game in one tap — all inside a beautiful mobile-friendly interface.
 
----
 
-## Overview
 
-X_O_Flutter is a clean, intuitive, and simple Tic-Tac-Toe game built using **Flutter**. The purpose is to learn Flutter basics—layout, state management, user input—and deliver a fun interactive game for players.
+## ✨ Features
 
----
+- 🎮 **Classic Tic-Tac-Toe Gameplay**
+  - 3×3 grid, two players take turns.
+  - Detects win, loss, and draw conditions.
 
-## Features
+- 📱 **Cross-Platform**
+  - Runs on **Android, iOS, Web, Windows, macOS, and Linux**.
 
-- 2-player mode on the same device  
-- Responsive design supporting iOS, Android, Web, and Desktop (Windows, macOS, Linux)  
-- Visual feedback when someone wins or when the board is full (draw)  
-- Reset/restart game functionality  
+- 🎨 **Responsive UI**
+  - Smooth Flutter widgets with a minimal, modern design.
+  - Game board scales across different screen sizes.
+
+- 🔄 **Restart Anytime**
+  - Reset the board instantly and play again.
 
 ---
 
-## Screenshots
+## 🏗️ Game Flow
 
-*(Include some screenshots here if available)*
-
-> ![Screenshot 1](path/to/screenshot1.png)  
+👥 Player 1 (❌) → Tap → Updates board  
+👥 Player 2 (⭕) → Tap → Updates board  
+✅ System checks: Win / Draw / Continue  
+🔁 Restart button to reset  
 
 ---
 
-## Getting Started
+## 📦 Installation
 
-### Prerequisites
+```bash
+# Clone the repo
+git clone https://github.com/Mahmoud3301/X_O_Flutter.git
+cd X_O_Flutter
 
-Make sure you have installed:
+# Get dependencies
+flutter pub get
 
-- Flutter SDK (≥ [version])  
-- Dart  
-- A code editor (e.g. VS Code, Android Studio)  
-- A connected device or emulator  
-
-### Installation
-
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/Mahmoud3301/X_O_Flutter.git
-   cd X_O_Flutter
+# Run the app
+flutter run
