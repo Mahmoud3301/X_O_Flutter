@@ -13,8 +13,6 @@ It’s designed for fun, learning Flutter basics, and demonstrating responsive U
 
 ---
 
-## 🎬 Demo
-👉 [Watch the demo on Google Drive](https://drive.google.com/) *(Add your demo link here)*
 
 ---
 
@@ -45,21 +43,9 @@ It’s designed for fun, learning Flutter basics, and demonstrating responsive U
 
 ---
 
-## 📂 Project Structure
-
-X_O_Flutter/
-├── lib/
-│ ├── main.dart # App entry point
-│ ├── game_logic.dart # Core game state & winner detection
-│ └── widgets/ # UI components
-├── assets/ # Game images/screenshots
-├── test/ # Unit tests (if added)
-├── pubspec.yaml
-└── README.md
-
 
 ---
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Flutter
 
@@ -67,7 +53,7 @@ Dart
 
 Material Design Widgets
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 🤖 Single-player mode with AI opponent
 
@@ -79,9 +65,9 @@ Material Design Widgets
 
 🎵 Sound effects & animations
 
-👨‍💻 Developed By
+## 👨‍💻 Developed By
 
-Mahmoud Mansour (replace with actual team names if multiple developers)
+## Mahmoud Mansour 
 
 ## 📦 Installation
 
