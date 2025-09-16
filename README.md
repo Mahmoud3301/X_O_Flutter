@@ -44,6 +44,16 @@ It’s designed for fun, learning Flutter basics, and demonstrating responsive U
 🔁 Restart button to reset  
 
 ---
+📂 Project Structure
+X_O_Flutter/
+├── lib/
+│   ├── main.dart          # App entry point
+│   ├── game_logic.dart    # Core game state & winner detection
+│   └── widgets/           # UI components
+├── assets/                # Game images/screenshots
+├── test/                  # Unit tests (if added)
+├── pubspec.yaml
+└── README.md
 
 ## 📦 Installation
 
@@ -58,13 +68,3 @@ flutter pub get
 # Run the app
 flutter run
 
-📂 Project Structure
-X_O_Flutter/
-├── lib/
-│   ├── main.dart          # App entry point
-│   ├── game_logic.dart    # Core game state & winner detection
-│   └── widgets/           # UI components
-├── assets/                # Game images/screenshots
-├── test/                  # Unit tests (if added)
-├── pubspec.yaml
-└── README.md
