@@ -135,6 +135,3 @@ The MIT License for this repository applies only to the original code authored f
 © 2026 Mahmoud Saeed. All rights reserved to the original project contributions, subject to the MIT License and the applicable rights and licenses of third-party components.
 
 Unauthorized removal or misrepresentation of original authorship and attribution is not permitted.
-```
-
-**مهم:** لازم تضيف ملف `LICENSE` في جذر الريبو يحتوي نص MIT License، ويكون اسم صاحب حقوق الكود فيه مطابقًا للاسم الذي تملك به حقوق المشروع.
